@@ -107,30 +107,31 @@ H. Add the following functionalities to the part screens, using the methods prov
 
 I. Add the following functionalities to the product screens, using the methods provided in the attached
 “UML Class Diagram”:
-1. “Add Product” screen
-  • enter name, inventory level, price, and max and min values
-  • save the data and then redirect to the main screen
-  • associate one or more parts with a product
-  • remove or disassociate a part from a product
-  • cancel or exit out of this screen and go back to the main screen
-2. “Modify Product” screen
-  • modify or change data values
-  • save modifications to the data and then redirect to the main screen
-  • associate one or more parts with a product
-  • remove or disassociate a part from a product
-  • cancel or exit out of this screen and go back to the main screen
-  J. Write code to implement exception controls with custom error messages for one requirement out of
-  each of the following sets (pick one from each):
-    1. Set 1
-      • entering an inventory value that exceeds the minimum or maximum value for that part or
-      product
-      • preventing the minimum field from having a value above the maximum field
-      • preventing the maximum field from having a value below the minimum field
-      • ensuring that a product must always have at least one part
-    2. Set 2
-      • including a confirm dialogue for all “Delete” and “Cancel” buttons
-      • ensuring that the price of a product cannot be less than the cost of the parts
-      • ensuring that a product must have a name, price, and inventory level (default 0)
+  1. “Add Product” screen
+    • enter name, inventory level, price, and max and min values
+    • save the data and then redirect to the main screen
+    • associate one or more parts with a product
+    • remove or disassociate a part from a product
+    • cancel or exit out of this screen and go back to the main screen
+  2. “Modify Product” screen
+    • modify or change data values
+    • save modifications to the data and then redirect to the main screen
+    • associate one or more parts with a product
+    • remove or disassociate a part from a product
+    • cancel or exit out of this screen and go back to the main screen
+
+J. Write code to implement exception controls with custom error messages for one requirement out of
+each of the following sets (pick one from each):
+  1. Set 1
+    • entering an inventory value that exceeds the minimum or maximum value for that part or
+    product
+    • preventing the minimum field from having a value above the maximum field
+    • preventing the maximum field from having a value below the minimum field
+    • ensuring that a product must always have at least one part
+  2. Set 2
+    • including a confirm dialogue for all “Delete” and “Cancel” buttons
+    • ensuring that the price of a product cannot be less than the cost of the parts
+    • ensuring that a product must have a name, price, and inventory level (default 0)
 
 K. Demonstrate professional communication in the content and presentation of your submission.
 ```
