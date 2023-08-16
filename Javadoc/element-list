@@ -1,0 +1,4 @@
+module:com.mc.InventorySystem
+com.mc.controller
+com.mc.main
+com.mc.model
