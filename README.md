@@ -1,7 +1,11 @@
 # Inventory Management System GUI (JavaFX)
 ## Usage
 ```text
-This application is an appointment management system designed to help users organize and manage their tasks and to-do lists. It provides a graphical user interface (GUI) where users can create, update, and track their tasks, set deadlines, and prioritize tasks based on their importance. The application is built using object-oriented principles, follows the Model-View-Controller (MVC) architecture, and integrates with a database to store task-related information.
+This application is an appointment management system designed to help users organize and manage their
+tasks and to-do lists. It provides a graphical user interface (GUI) where users can create, update,
+and track their tasks, set deadlines, and prioritize tasks based on their importance. The application
+is built using object-oriented principles, follows the Model-View-Controller (MVC) architecture, and
+integrates with a database to store task-related information.
 ```
 
 ## Key Features
@@ -17,10 +21,12 @@ This application is an appointment management system designed to help users orga
 ```
 
 ## Dependencies
+```text
 -Java 19 or greater
 -JavaFX
 -MySQL
 -IDE (IntelliJ is recommended)
+```
 
 # Detailed Requirements
 ## Introduction
