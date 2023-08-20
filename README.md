@@ -30,7 +30,7 @@ integrates with a database to store task-related information.
 
 ## Dependencies
 ```text
--Java 19 or greater
+-[Java 19 or greater](https://www.java.com/en/)
 -JavaFX
 -JDBC Driver for MySQL
 -MySQL
