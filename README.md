@@ -29,21 +29,30 @@ integrates with a database to store task-related information.
 ```
 
 ## Dependencies
-```text
--[Java 19 or greater](https://www.java.com/en/)
--JavaFX
--JDBC Driver for MySQL
--MySQL
--Java IDE (IntelliJ is recommended)
-```
+
+-[Java 17 or greater](https://www.java.com/en/)<br>
+-[JavaFX](https://openjfx.io/)<br>
+-[JDBC Driver for MySQL](https://www.mysql.com/products/connector/)<br>
+-[MySQL](https://www.mysql.com/)<br>
+-Java IDE ([JetBrains IntelliJ](https://www.jetbrains.com/idea/) is recommended)<br>
+
 
 ## Installation
-```text
-1. Install the latest version of Java (https://www.java.com/en/)
-2. Install the latest version of MySQL (https://www.mysql.com/)
-3. Install the JavaFX (https://openjfx.io/)
-4. Install JDBC Driver for MySQL (https://www.mysql.com/products/connector/)
-
+1. Install the latest version of [Java](https://www.java.com/en/)<br>
+2. Install the latest version of [MySQL](https://www.mysql.com/)<br>
+3. Install [JavaFX](https://openjfx.io/)<br>
+4. Download [JDBC Driver for MySQL](https://www.mysql.com/products/connector/)<br>
+5. Import the files from the 'database' folder into a new MySQL schema<br>
+6. In the JDBCConnector.java file, update the following varaibles with your MySQL login informaiton:
+```
+private static final String userName = "[USERNAME]";
+private static final String password = "[PASSWORD]";
+```
+7. In your chosen IDE, run the main method in the AppointmentScheduler.java file.
+### Initial Login Information:
+```
+USERNAME: admin
+PASSWORD: admin
 ```
 
 # Detailed Project Requirements
