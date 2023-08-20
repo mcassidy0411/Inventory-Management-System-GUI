@@ -45,6 +45,12 @@ USERNAME: admin
 PASSWORD: admin
 ```
 
+## Usage
+Once logged in, users can add, modify, and delete appointments.  Users can view customer data and appointment reports.<br><br>
+![UI](/screenshots/ui.jpg?raw=true "UI")
+
+
+
 # Detailed Project Requirements
 ## Introduction
 
