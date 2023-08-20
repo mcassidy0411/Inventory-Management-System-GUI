@@ -1,5 +1,5 @@
 # Inventory Management System GUI (JavaFX)
-## Usage
+## Purpose
 ```text
 This application is an appointment management system designed to help users organize and manage their
 tasks and to-do lists. It provides a graphical user interface (GUI) where users can create, update,
@@ -24,11 +24,21 @@ integrates with a database to store task-related information.
 ```text
 -Java 19 or greater
 -JavaFX
+-JDBC Driver for MySQL
 -MySQL
--IDE (IntelliJ is recommended)
+-Java IDE (IntelliJ is recommended)
 ```
 
-# Detailed Requirements
+## Installation
+```text
+1. Install the latest version of Java (https://www.java.com/en/)
+2. Install the latest version of MySQL (https://www.mysql.com/)
+3. Install the JavaFX (https://openjfx.io/)
+4. Install JDBC Driver for MySQL (https://www.mysql.com/products/connector/)
+
+```
+
+# Detailed Project Requirements
 ## Introduction
 
 ```text
