@@ -8,9 +8,11 @@ integrates with a database to store task-related information.
 
 ## Key Features
 **-User Authentication:** Users can create accounts and log in to the application to access their personalized task lists.<br>
-**-Task Creation and Management:** Users can create new tasks, assign due dates, set priorities, and add descriptions to each task.<br>
-**-Task Listing and Sorting:** Tasks are listed in the main interface, and users can sort tasks based on deadlines or priorities.<br>
-**-Task Editing and Deletion:** Users can edit task details or mark tasks as completed. Completed tasks can be archived or removed.<br>
+**-Task Creation and Management:** Users can create new appointments, set date and time, and add descriptions to each task.<br>
+**-Task Listing and Sorting:** Tasks are listed in the main interface, and users can sort tasks based on any attribute.<br>
+**-Task Editing and Deletion:** Users can edit task details delete tasks.<br>
+**-Automatic Time Zone/Language:** Time Zone and language is displayed throughout the application based on the user's locaiton.<br>
+**-Automatic Time Conversion:** Business hours are 8AM-10PM EST.  Appointment times are translated into the user's time zone and appointments cannot be scheduled outside business hours.
 **-User-Friendly Interface:** The GUI provides an intuitive and visually appealing layout for easy interaction.<br>
 **-Error Handling and Logging:** The application employs error-handling mechanisms to gracefully handle unexpected situations and logs events for troubleshooting.<br>
 **-Database Integration:** Task data is stored in a database, allowing users to persist their tasks across application sessions.<br>
