@@ -1,4 +1,4 @@
-# Inventory Management System GUI (JavaFX)
+# Appointment Management System GUI (JavaFX)
 ## Purpose
 This application is an appointment management system designed to help users organize and manage their
 tasks and to-do lists. It provides a graphical user interface (GUI) where users can create, update,
